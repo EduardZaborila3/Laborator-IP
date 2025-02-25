@@ -1,5 +1,5 @@
 # Laborator-IP
 
 Echipa:
-Brînză Gabriel
+Brînză Gabriel,
 Zaborilă Eduard-Andrei
